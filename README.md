@@ -4,4 +4,4 @@
 Cursando Programação.
 
 ### Detalhes
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=defipenguin&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=DefiPenguin&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
