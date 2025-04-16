@@ -10,6 +10,9 @@ Cursando Programação.
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DefiPenguin&repo=variavel&theme=dark)](http://sgithub.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DefiPenguin&repo=name_register&theme=dark)](http://sgithub.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DefiPenguin&repo=meteorologia&theme=dark)](http://sgithub.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DefiPenguin&repo=e_commerce&theme=dark)](http://sgithub.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
