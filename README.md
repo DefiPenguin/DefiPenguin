@@ -17,3 +17,7 @@ Cursando Programação.
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DefiPenguin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img_src='https://img.shields.io.badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>] (https://www.linkedin.com/in/andré-luiz-alves-a845a737a)
